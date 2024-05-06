@@ -1,0 +1,6 @@
+a = 10
+
+if a > 7:
+    print("Lulus")
+else:
+    print("Anda Gagal")
