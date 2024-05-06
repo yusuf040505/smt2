@@ -1,0 +1,20 @@
+#OPERATOR IDENTITAS 
+#true
+a = 13
+b = 8
+print (a is not b)
+
+#false
+a = 6
+b = 6
+print (a is not b)
+
+#true
+a = 43
+b = 43
+print (a is b)
+
+#false
+a = 28
+b = 32
+print (a is b)
