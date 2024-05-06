@@ -1,9 +1,12 @@
 a = 10
-
 if a > 7:
     print("Lulus")
 else:
     print("Anda Gagal")
+
+
+print ('''''''''''''''''''''''''''''')
+
 
 nilai = 8
 if nilai <= 5 :
@@ -12,3 +15,15 @@ if nilai <= 5 :
 else:
     print("Nilai Aman")
     print("Anda Lulus")
+
+
+print ('''''''''''''''''''''''''''''')
+
+
+kata = "Kuliah"
+kalimat = "Unindra aja"
+paragraf = """Materi hari ini python"""
+
+print(kata)
+print(kalimat)
+print(paragraf)
