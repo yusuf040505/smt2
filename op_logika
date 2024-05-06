@@ -1,0 +1,33 @@
+#OPERATOR LOGIKA (AND, OR, NOT)
+x = True
+y = False
+
+#Logika AND
+z = x and y
+print ("True and False =", z)
+#true
+x = 6 and 8
+print (x>5 and x<10)
+#false
+y = 12 and 15
+print (y<10 and y>16)
+
+#Logika OR
+z = x or y
+print ("True or False =", z)
+#true
+x = 5
+print (x>1 or x<10)
+#false
+y = 2
+print (y<1 or y>10)
+
+#Logika NOT
+z = not x
+print ("not True =", z)
+#true
+x = not 10
+print (not x>11)
+#false
+y = not 22
+print (not y<20)
