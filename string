@@ -1,0 +1,28 @@
+#String
+var1 = 'Hello Unindra'
+var2 = "Program with Python"
+print(var1)
+print(var2)
+
+#Nilai String
+var1 = 'Hello Unindra'
+var2 = "Program with Python"
+print("var1[1]", var1[1])
+print("var2[1:5]", var2[1:5])
+
+#Update Nilai String
+var1 = 'Hello Python'
+var2 = var1[:6]
+print(var1)
+print("string update: -",var1[:6] + 'world')
+
+#Menggabungkan String
+str1 = 'Hello'
+str2 = 'python'
+print('str1 + str2 = ',str1 + str2)
+print('str1 * 3 = ',str1 * 3)
+print('str2 * 3 = ',str2 * 3)
+
+#Mengetahui Panjang String
+string = 'I Love Unindra'
+print(len(string))
