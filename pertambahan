@@ -1,0 +1,7 @@
+a = input("Angka1: ")
+b = input("Angka2: ")
+c = input("Angka3: ")
+d = input("Angka4: ")
+e = int(a) + float(b) + int(c) + int(d)
+
+print("Hasilnya adalah :" + str(e))
