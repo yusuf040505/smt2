@@ -1,0 +1,14 @@
+#OPERATOR PERBANDINGAN
+x = 10
+y = 15
+
+print('x =',x)
+print('y =',y)
+print('\n')
+
+print('x == y hasilnya',x==y)
+print('x != y hasilnya',x!=y)
+print('x > y hasilnya',x>y)
+print('x < y hasilnya',x<y)
+print('x >= y hasilnya',x>=y)
+print('x <= y hasilnya',x<=y)
