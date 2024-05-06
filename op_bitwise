@@ -1,0 +1,8 @@
+#OPERATOR BITWISE
+a = 4
+b = 32
+print("Hasil dari a & b:", a & b)
+print("Hasil dari a | b:", a | b)
+print("Hasil dari a ^ b:", a ^ b)
+print("Hasil dari a << 2:", a << 2)
+print("Hasil dari a >> 1:", a >> 1)
