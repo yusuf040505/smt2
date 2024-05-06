@@ -1,0 +1,6 @@
+bil1 = 75
+bil2 = 16
+bil3 = 20
+bil4 = 12
+jumlah=(bil1+bil2-bil3-bil4)
+print(jumlah)
