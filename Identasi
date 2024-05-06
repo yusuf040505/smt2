@@ -4,3 +4,11 @@ if a > 7:
     print("Lulus")
 else:
     print("Anda Gagal")
+
+nilai = 8
+if nilai <= 5 :
+    print("Nilai Memuaskan")
+    print("Tidak Lulus")
+else:
+    print("Nilai Aman")
+    print("Anda Lulus")
